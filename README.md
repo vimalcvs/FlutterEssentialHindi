@@ -1,6 +1,12 @@
-# awesomeapp
+# Awesomeapp
 
 A new Flutter project.
+
+
+## Flutter Complete Paid Course for Free Beginners 2021 in HINDI
+Video:- https://www.youtube.com/watch?v=nPdDJ8ZuYl8&t=151s&ab_channel=Mr.IndianDev
+
+![alt text](/flutter.png)
 
 ## Getting Started
 
